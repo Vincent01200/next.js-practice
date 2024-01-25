@@ -1,0 +1,32 @@
+
+.h1wp{
+    color: rgb(36, 198, 198);
+    height: 5vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.card{
+    background-color: cadetblue;
+    background-blend-mode: lighten;
+    
+}
+
+.id{
+    padding: 5px 20px;
+    font-weight: bold;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 3px solid;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 10%;
+}
